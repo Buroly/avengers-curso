@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red Skull
-* Marko Cortéz
+* Capitan America
